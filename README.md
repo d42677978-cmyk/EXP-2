@@ -68,13 +68,12 @@ Tabulation for Load Test:
  |6|7|195|
 
 Model graph:
-Calculation: 
-
-
-Open circuit characteristics
+ Open circuit characteristics:
+![WhatsApp Image 2025-11-26 at 09 05 36_79107b54](https://github.com/user-attachments/assets/be343fc0-4f62-4585-a463-a82ead4a87df)
 
   
 Load Characteristics:
- 
+ ![WhatsApp Image 2025-11-26 at 09 05 36_a01545ac](https://github.com/user-attachments/assets/24b5a39c-1102-4062-896e-e19adccbf2aa)
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
